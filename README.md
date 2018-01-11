@@ -129,6 +129,7 @@ Direct/ no **[Shift]**:
 | **[Hotcue 1]** | **[Hotcue 2]** | **[Hotcue 3]** | **[Hotcue 4]** |
 
 With **[Shift]** (Shift+Hotcue will additionally move to the left of the hotcue point at the value of the set move size.):
+
 | 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
 | :---: | :---: | :---: | :---: |
 | **[]** | **[]** | **[Move -1]** | **[Move -2]** |
@@ -137,6 +138,7 @@ With **[Shift]** (Shift+Hotcue will additionally move to the left of the hotcue 
 | **[Hotcue 1 + Move Left]** | **[Hotcue 2 + Move Left]** | **[Hotcue 3 + Move Left]** | **[Hotcue 4 + Move Left]** |
 
 With **[Shift]** + **[Cue]** (Delete Hotcues):
+
 | 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
 | :---: | :---: | :---: | :---: |
 | **[]** | **[]** | **[]** | **[]** |
@@ -147,6 +149,7 @@ With **[Shift]** + **[Cue]** (Delete Hotcues):
 ### **[Loop]** Tab Deck A/B/C
 
 Direct/ no **[Shift]**:
+
 | 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
 | :---: | :---: | :---: | :---: |
 | **[Loop Size Dec]** | **[Loop Size Inc]** | **[Loop Set 1]** | **[Loop Set 2]** |
@@ -155,7 +158,7 @@ Direct/ no **[Shift]**:
 | **[Loop In-]** | **[Loop In+]** | **[Loop Out-]** | **[Loop Out+]** |
 
 With **[Shift]**:
-(Template):
+
 | 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
 | :---: | :---: | :---: | :---: |
 | **[]** | **[]** | **[Backward Loop Set 1]** | **[Backward Loop Set 2]** |
@@ -165,6 +168,7 @@ With **[Shift]**:
 
 
 (Template):
+
 | 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
 | :---: | :---: | :---: | :---: |
 | **[]** | **[]** | **[]** | **[]** |
