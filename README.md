@@ -119,6 +119,8 @@ Buttons:
 
 Decks A/B/C are exclusively used as Track Decks. Deck A and B are planned for use with Stems (should work already but still needs some work).
 
+Changes of Move/Loop Size will be shown in the **[Display]**.
+
 Direct/ no **[Shift]**:
 
 | 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
