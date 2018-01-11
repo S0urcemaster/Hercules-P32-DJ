@@ -115,12 +115,59 @@ Buttons:
 - **[Fx3 On]**/**[Fx2 On]** Flux On/Off
 - **[Macro]**/**[Fx1 On]** Loop On/Off
 
-### Hotcue Tab Deck A/B/C
+### **[Hotcue]** Tab Deck A/B/C
 
 Decks A/B/C are exclusively used as Track Decks. Deck A and B are planned for use with Stems (should work already but still needs some work).
 
+Direct/ no **[Shift]**:
+
+| 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
+| :---: | :---: | :---: | :---: |
+| **[Move Size Dec]** | **[Move Size Inc]** | **[Move +1]** | **[Move +2]** |
+| **[Move +4]** | **[Move +8]** | **[Move +16]** | **[Move +32]** |
+| **[Hotcue 5]** | **[Hotcue 6]** | **Hotcue 7[]** | **[Hotcue 8]** |
+| **[Hotcue 1]** | **[Hotcue 2]** | **[Hotcue 3]** | **[Hotcue 4]** |
+
+With **[Shift]** (Shift+Hotcue will additionally move to the left of the hotcue point at the value of the set move size.):
+| 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
+| :---: | :---: | :---: | :---: |
+| **[]** | **[]** | **[Move -1]** | **[Move -2]** |
+| **[Move -4]** | **[Move -8]** | **[Move -16]** | **[Move -32]** |
+| **[Hotcue 5 + Move Left]** | **[Hotcue 6 + Move Left]** | **[Hotcue 7 + Move Left]** | **[Hotcue 8 + Move Left]** |
+| **[Hotcue 1 + Move Left]** | **[Hotcue 2 + Move Left]** | **[Hotcue 3 + Move Left]** | **[Hotcue 4 + Move Left]** |
+
+With **[Shift]** + **[Cue]** (Delete Hotcues):
+| 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
+| :---: | :---: | :---: | :---: |
+| **[]** | **[]** | **[]** | **[]** |
+| **[]** | **[]** | **[]** | **[]** |
+| **[Delete Hotcue 5]** | **[Delete Hotcue 6]** | **[Delete Hotcue 7]** | **[Delete Hotcue 8]** |
+| **[Delete Hotcue 1]** | **[Delete Hotcue 2]** | **[Delete Hotcue 3]** | **[Delete Hotcue 4]** |
+
+### **[Loop]** Tab Deck A/B/C
+
+Direct/ no **[Shift]**:
+| 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
+| :---: | :---: | :---: | :---: |
+| **[Loop Size Dec]** | **[Loop Size Inc]** | **[Loop Set 1]** | **[Loop Set 2]** |
+| **[Loop Set 4]** | **[Loop Set 8]** | **[Loop Set 16]** | **[Loop Set 32]** |
+| **[Loop In]** | **[Loop Out]** | **[Loop-]** | **[Loop+]** |
+| **[Loop In-]** | **[Loop In+]** | **[Loop Out-]** | **[Loop Out+]** |
+
+With **[Shift]**:
+(Template):
+| 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
+| :---: | :---: | :---: | :---: |
+| **[]** | **[]** | **[Backward Loop Set 1]** | **[Backward Loop Set 2]** |
+| **[Backward Loop Set 4]** | **[Backward Loop Set 8]** | **[Backward Loop Set 16]** | **[Backward Loop Set 32]** |
+| **[]** | **[]** | **[]** | **[]** |
+| **[]** | **[]** | **[]** | **[]** |
 
 
-
-
-
+(Template):
+| 1/5/9/13 | 2/6/10/14 | 3/7/11/15 | 4/8/12/16 |
+| :---: | :---: | :---: | :---: |
+| **[]** | **[]** | **[]** | **[]** |
+| **[]** | **[]** | **[]** | **[]** |
+| **[]** | **[]** | **[]** | **[]** |
+| **[]** | **[]** | **[]** | **[]** |
