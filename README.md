@@ -26,7 +26,7 @@ There are several mapping files for the whole thing:
 - P32 Slicer B (Function that are mapped with the Slicer-buttons)
 - P32 Slicer C (Function that are mapped with the Slicer-buttons)
 
-*If you have a setup with just 1 P32 device, you only need the AB-files.*
+*If you have a setup with just 1 P32 device, you only need the AB-files. Browse function are on Sampler CD, though.*
 
 - Hotcue deals with functions for Hotcues
 - Loop deals with functions for Looping
